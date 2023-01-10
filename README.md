@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @charliearaya
 - 👀 I’m interested in frontend development and AI
-- 🌱 I’m currently learning AI and IoT
+- 🌱 I’m currently learning AI and UX
 - 💞️ I’m looking to collaborate with startups and other freelancers
 - 📫 How to reach me -> [cristianaraya.dev](https://www.cristianaraya.dev)
 
